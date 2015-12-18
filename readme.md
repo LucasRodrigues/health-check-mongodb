@@ -1,4 +1,4 @@
-# Health Check Redis
+# Health Check Mongodb
 
 ## CI
 [![Circle CI](https://circleci.com/gh/LucasRodrigues/health-check-mongodb.svg?style=svg)](https://circleci.com/gh/LucasRodrigues/health-check-mongodb)

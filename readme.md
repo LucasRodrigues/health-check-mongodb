@@ -1,5 +1,7 @@
 # Health Check Mongodb
 
+Health check to system [mongodb](https://www.mongodb.org/)
+
 ## CI
 [![Circle CI](https://circleci.com/gh/LucasRodrigues/health-check-mongodb.svg?style=svg)](https://circleci.com/gh/LucasRodrigues/health-check-mongodb)
 

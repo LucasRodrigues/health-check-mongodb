@@ -13,7 +13,7 @@ $ npm install health-check-mongodb
 
 ## Usage
 
-```
+```js
 var healthCheckMongodb = require('health-check-mongodb');
 
 healthCheckMongodb.do([{
